@@ -1,12 +1,64 @@
-# React + Vite
+Akriti Singh | Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, responsive, and modern personal portfolio website built using **React (Vite)**, **Tailwind CSS**, and **Framer Motion**.  
+This project showcases my skills, background, projects, certifications, and contact information in an elegant and girlish-themed layout.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌟 Features
+- Modern, minimal, and gradient theme
+- Hero section with profile image and introduction
+- Projects section with GitHub links and descriptions
+- Skills section with categorized skill cards
+- Certifications with clickable proof links
+- Contact section with quick links
+- Fully responsive layout (mobile-first)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Technologies Used
+- React (Vite)
+- Tailwind CSS
+- Framer Motion
+- Lucide React Icons
+
+---
+
+📁 Folder Structure
+portfolio/
+├── public/
+│ └── akriti.jpg # Profile image
+├── src/
+│ ├── App.jsx # Main app file
+│ ├── index.css # Global styles
+│ └── components/ # Reusable components
+├── package.json # Project dependencies
+└── README.md # Documentation
+
+---
+
+📱 Responsive Design
+- Layout adapts beautifully on mobile, tablet, and desktop screens.
+- Uses Tailwind CSS utilities for responsiveness.
+- Smooth animations using Framer Motion.
+
+---
+
+📫 Contact Details
+Feel free to reach out or connect:
+
+📧 Email: [akritisingh0309@gmail.com](mailto:akritisingh0309@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/akriti-singh03](https://linkedin.com/in/akriti-singh03)  
+🐱 GitHub: [github.com/akritiDev03](https://github.com/akritiDev03)  
+🖥 LeetCode: [leetcode.com/akritisingh0309](https://leetcode.com/akritisingh0309/)  
+
+---
+
+🙌 Acknowledgements
+Designed and built by **Akriti Singh**.  
+Inspired by clean, responsive, and user-friendly portfolio designs.
+
+---
+
+© 2025 Akriti Singh — All rights reserved.
+
